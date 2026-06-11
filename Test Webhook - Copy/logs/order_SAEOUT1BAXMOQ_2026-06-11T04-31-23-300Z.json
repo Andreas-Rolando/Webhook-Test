@@ -1,0 +1,52 @@
+{
+  "orderID": "SAEOUT1BAXMOQ",
+  "deliveryTransactionID": "EZD16675370357964",
+  "salesNum": "SOUT1166753713066",
+  "billNum": "ESODM202211040002",
+  "transactionDate": "2022-11-04T11:43:52+07:00",
+  "additionalCustomerInfo": null,
+  "fullName": "Jhon Doe",
+  "phoneNumber": "62xxxxxxxxxxx",
+  "deliveryAddressLabel": null,
+  "deliveryAddress": "Rawa Badak Lurah, RT.2/RW.10, Ps. Manggis, Setia Budi, Kota Jakarta Selatan, DKI Jakarta 12970, Indonesia.",
+  "promotionCode": "PROMO50K",
+  "originalDeliveryCost": 300000,
+  "deliveryCost": 300000,
+  "currencySign": "Rp",
+  "voucherDiscountTotal": 0,
+  "orderType": "delivery",
+  "orderTypeName": "Delivery",
+  "branchName": "OUTLET Tangerang 1",
+  "grandTotal": 340500,
+  "discountTotal": 50000,
+  "subtotal": 78354.9784,
+  "status": "Order Confirmed",
+  "salesMenus": [
+    {
+      "ID": 380,
+      "menuName": "SERABI",
+      "qty": 1,
+      "sellPrice": 10000,
+      "statusName": "Preparing",
+      "packages": [
+        {
+          "menuName": "AYAM TALIWANG",
+          "qty": 1,
+          "sellPrice": 0
+        }
+      ],
+      "extras": [
+        {
+          "menuExtraName": "JUS APEL",
+          "qty": 1,
+          "sellPrice": 5000
+        }
+      ]
+    }
+  ],
+  "salesPayment": {
+    "paymentMethodID": "ovo",
+    "paymentStatus": "settlement",
+    "paymentTotal": 340500
+  }
+}
